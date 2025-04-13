@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HRKhan-DS
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning GenAI
-- 💞️ I’m looking to collaborate on Data Science-NLP
+- 💞️ I’m looking to collaborate in the Data Science field
 - 📫 How to reach me: https://github.com/HRKhan-DS
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am trying to convert my career as a Data Scientist
